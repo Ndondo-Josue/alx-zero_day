@@ -22,3 +22,8 @@ GIT
 
 This is a project of working with Git. How to write commit, push code
 and pull updates. How to create branch and understand Git.
+
+UP TO DATE
+==========
+
+This is about keep up to date with changes of co-workers.
